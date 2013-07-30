@@ -1,6 +1,8 @@
 black_berry_push
 ================
 Usage
+you have to install gem rest-client and in application.rb you need to specify
+"require push"
 
 You need to pass
 :app_id=> which you will get from bis server
