@@ -9,6 +9,7 @@ You need to pass
 :pass=> password provided for app id
 :pin=> you can pass multiple like ["xxxxxxx","xxxxxxxxx"]
 :content=>your message content.
+:push_api_url=>(optional) if you have it you can pass it else default will be "https://pushapi.eval.blackberry.com/mss/PD_pushRequest"
 
 Example
 
