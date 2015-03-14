@@ -33,4 +33,4 @@ Example
  
  That's it now you can use this gem for sending push-notification to any blackberry devices.
 
-if you still have any doubt you can contact me at pinak@complitech.net.
+if you still have any doubt you can contact me at pinak.0605@gmail.com.
